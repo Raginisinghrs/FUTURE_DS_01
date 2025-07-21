@@ -56,28 +56,11 @@ This task involved analyzing a retail dataset and building an interactive dashbo
 
 ## 🔗 Connect
 📌 LinkedIn Post: [Link to your task post]  
-📌 Project GitHub: *You're already here!* 😊
+📌 Project GitHub: 
 
 ---
 
 
----
-
-📌 How to Use It:
-
-1. Create a README.md file in your GitHub repo
-
-
-2. Paste the above content into it
-
-
-3. Replace:
-
-Screenshot file name
-
-Your LinkedIn post link
-
-Adjust anything specific to your task
 
 
 
