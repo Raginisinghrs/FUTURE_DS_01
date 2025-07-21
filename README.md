@@ -40,7 +40,7 @@ This task involved analyzing a retail dataset and building an interactive dashbo
 ---
 
 ## 📁 Files Included
-- `Task1_Superstore_Cleaned.xlsx` – Cleaned Excel data
+- `Task1_Data.xlsx` – Cleaned Excel data
 - `Superstore_Dashboard.pbix` – Power BI dashboard file
 - `Screenshots/` – Images of the final dashboard
 - `README.md` – Project overview and documentation
