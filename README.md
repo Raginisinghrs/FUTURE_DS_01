@@ -41,5 +41,5 @@ This task involved analyzing a retail dataset and building an interactive dashbo
 ---
 
 ## 🔗 Connect
-📌 LinkedIn Post: [Link to your task post]  
-📌 Project GitHub:https://github.com/Raginisinghrs/FUTURE_DS_01
+📌 LinkedIn Post: https://www.linkedin.com/posts/ragini-singh-a0a296294_powerbi-excel-datacleaning-activity-7353106159190355969-m6Gi?utm_source=share&utm_medium=member_android&rcm=ACoAAEc7nyoB8h5AApx0tsvLHh-uulbTY2I3Ec8 
+📌 Project GitHub: https://github.com/Raginisinghrs/FUTURE_DS_01
