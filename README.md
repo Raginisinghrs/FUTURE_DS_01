@@ -43,15 +43,3 @@ This task involved analyzing a retail dataset and building an interactive dashbo
 ## 🔗 Connect
 📌 LinkedIn Post: [Link to your task post]  
 📌 Project GitHub:https://github.com/Raginisinghrs/FUTURE_DS_01
-
----
-
-
-
-
-
-4. Commit and push it to GitHub — you're done!
-
-
-
-Let me know if you'd like help creating a README.md for Task 2 when you're ready!
